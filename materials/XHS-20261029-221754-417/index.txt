@@ -1,0 +1,74 @@
+1:"$Sreact.fragment"
+2:I[5204,[],""]
+3:I[2642,[],""]
+4:I[8197,["234","static/chunks/234-d56c43f343d14c26.js","207","static/chunks/207-450d9d5b01af7d75.js","197","static/chunks/197-af9a711f777d61bc.js","999","static/chunks/app/materials/%5Bid%5D/page-50994fe18a8b5a23.js"],""]
+5:I[4234,["234","static/chunks/234-d56c43f343d14c26.js","197","static/chunks/197-af9a711f777d61bc.js","345","static/chunks/app/not-found-60744d067c80a6ea.js"],"Image"]
+7:I[433,[],"OutletBoundary"]
+9:I[9884,[],"AsyncMetadataOutlet"]
+b:I[433,[],"ViewportBoundary"]
+d:I[433,[],"MetadataBoundary"]
+e:"$Sreact.suspense"
+10:I[3536,[],""]
+:HL["/diantou-xhs-material/_next/static/css/28ddc25d6715999e.css","style"]
+0:{"P":null,"b":"zdLyfzGUcOaKNR9gK52Y3","p":"/diantou-xhs-material","c":["","materials","XHS-20261029-221754-417",""],"i":false,"f":[[["",{"children":["materials",{"children":[["id","XHS-20261029-221754-417","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/diantou-xhs-material/_next/static/css/28ddc25d6715999e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"className":"antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex min-h-screen flex-col","children":[["$","div",null,{"className":"mx-auto flex w-full max-w-md flex-1 flex-col justify-center px-6","children":[["$","p",null,{"className":"text-xs text-[#9f2d20]","children":"点头素材台"}],["$","h1",null,{"className":"mt-2 text-2xl font-semibold","children":"没有这一页"}],["$","p",null,{"className":"mt-2 text-sm text-[#5e564e]","children":"素材可能还没放进这一份展示，或者链接里的编号不对。"}],["$","$L4",null,{"href":"/library","className":"mt-5 text-sm text-[#9f2d20]","children":"回素材库"}]]}],["$","footer",null,{"className":"border-t border-[#e3d8c8] bg-[#f4efe6]","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-x-6 gap-y-3 px-4 py-6 text-xs text-[#8a7f74]","children":[["$","p",null,{"children":"素材仅供 ZIP 进入。本站不连接、不探测本地工作台端口 47831。"}],["$","a",null,{"href":"https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral","target":"_blank","rel":"noopener noreferrer","className":"inline-flex shrink-0 items-center","children":["$","$L5",null,{"src":"/diantou-xhs-material/upyun-league-logo.png","alt":"又拍云","width":594,"height":302,"unoptimized":true,"className":"h-12 w-auto"}]}]]}]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["materials",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["id","XHS-20261029-221754-417","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Lb",null,{"children":"$Lc"}],null],["$","$Ld",null,{"children":["$","div",null,{"hidden":true,"children":["$","$e",null,{"fallback":null,"children":"$Lf"}]}]}]]}],false]],"m":"$undefined","G":["$10",[]],"s":false,"S":true}
+11:I[4824,["234","static/chunks/234-d56c43f343d14c26.js","207","static/chunks/207-450d9d5b01af7d75.js","197","static/chunks/197-af9a711f777d61bc.js","999","static/chunks/app/materials/%5Bid%5D/page-50994fe18a8b5a23.js"],"DisplayShell"]
+12:I[3071,["234","static/chunks/234-d56c43f343d14c26.js","207","static/chunks/207-450d9d5b01af7d75.js","197","static/chunks/197-af9a711f777d61bc.js","999","static/chunks/app/materials/%5Bid%5D/page-50994fe18a8b5a23.js"],"CoverImage"]
+13:I[9553,["234","static/chunks/234-d56c43f343d14c26.js","207","static/chunks/207-450d9d5b01af7d75.js","197","static/chunks/197-af9a711f777d61bc.js","999","static/chunks/app/materials/%5Bid%5D/page-50994fe18a8b5a23.js"],"DetailFavorite"]
+14:I[5626,["234","static/chunks/234-d56c43f343d14c26.js","207","static/chunks/207-450d9d5b01af7d75.js","197","static/chunks/197-af9a711f777d61bc.js","999","static/chunks/app/materials/%5Bid%5D/page-50994fe18a8b5a23.js"],"StaticDownload"]
+15:T1027,TLDR：总结论文不能被动吸收，要主动思考作者从0获得idea的逻辑，以及思考如何“攻击”这篇论文。
+	
+实践两年半，总结一些我认为需要加到prompt中的要点：
+	
+1. 论文提出并解决的研究问题是什么（调研和补充背景）？为什么这个问题是重要的？解决这个问题能带来哪些价值？
+	
+2. 这个问题之前被解决了吗？之前的研究为什么存在不足？
+	
+3. 【重要】在正式讲方法之前，先重建作者可能的思考路径。不要使用论文自己的贡献作为前提，只使用之前已有的背景、失败模式、经验观察和相关工作。思考和模拟作者本人的思路和受到的inspiration以及intuition，引导我理解为什么作者可以基于已有知识想到这篇论文的idea
+	
+4. 这篇论文提出方法的Intuition是什么？易懂清晰concise的告诉我这篇论文核心idea的本质
+	
+5. 这篇论文的具体方法是什么？结合一个真实的例子讲解：输入、处理、输出完整的pipeline
+	
+6. 这篇论文的核心数学推导过程是什么（让0基础的我从理论视角理解方法）？如果有，请给我补充理论背景（我的数学比较差），告诉我理论的基础和intuition；如果没有，可以说明并跳过这一点
+	
+7. 这篇论文是如何设计实验来验证提出的方法和claim的？按照下面格式总结：提出了什么问题->设计了什么实验验证这个问题->问题的答案是什么。不需要很多数据细节，只需要核心思路
+	
+8. 总结这篇论文的take-aways
+	
+9. 【重要】这篇论文最脆弱的假设是什么？
+	
+10. 如果我有1周时间，能做一个最小复现实验验证它的哪一点？
+	
+11. 【重要】如果我反对它，我会怎么设计反例？
+	
+12. 调研、思考、基于你的信息提出一个follow up的idea，要novel，不是增量研究，是从方法缺陷Limitation和需求出发思考可能的新的有价值的研究
+	
+我认为3是最重要的，但又被很多人忽略。
+我用AI总结论文收获最大的往往不是论文方法本身（毕竟大多数方法几个月后可能就过时了），而是作者是如何被启发的。
+读论文要反向推理作者的思考过程，才能锻炼基于related work和inspiration提出idea的能力。
+	
+所以要按照上面的顺序总结，先了解背景，然后尝试自己思考，如果你是作者的话能不能想到解决方法，再结合AI逆向蒸馏作者的思考过程，然后修正你的思考。（这类似一种meta learning，学习如何做research，而非被论文细节干扰）
+	
+9-12也很重要。我们要看这篇论文最大的限制，如何最小复现核心claims，如何反例设计攻击它，然后尝试提出新的ideas。
+	
+补充要求：
+* 风格参考Andrej Karpathy和Kaiming He，要求有真人的语感
+* 使用详细的、准确的claim，每句话都要有信息量，避免大空话和泛泛而谈
+* 使用流畅的文本，避免滥用破折号、引号，保持输出内容清洁流畅，易读性高
+* 使用真人逻辑，避免使用[不是...而是]这种AI的低信息量结构
+* 请严格区分四类信息：论文原文明确声称的内容、相关文献中的已有结论、基于证据的合理推断、仍然不确定的猜测。不要把推断写成事实。
+	
+个人实践经验：LLMs有上下文限制，一次完整总结12个问题可能会存在一些小细节缺失（但对我来说够用了，反正可以继续提问）；如果追求精度，可以每个问题单独提问，或者调用subagent单独处理，最后整合。
+	
+更新：刚刚传到GitHub上了，总结了四种使用方法--直接给agent的skill版本；直接复制的instruction版本；取长补短合并到你之前已有的论文阅读prompt；针对人文社科优化指南（参考p2）
+https://github.com/FeijiangHan/PaperForge/
+	
+这个版本还可以继续扩充和优化，大家取长补短即可[亲一个R]
+	
+#大模型[话题]# #文献阅读[话题]# #viberesearch[话题]# #ai读文献[话题]# #prompt分享[话题]# #howto用好AI[话题]#6:["$","$L11",null,{"current":"/library","children":[["$","p",null,{"className":"text-xs text-[#5e564e]","children":[["$","$L4",null,{"href":"/library","className":"hover:text-[#9f2d20]","children":"素材库"}],["$","span",null,{"className":"px-2","children":"/"}],"详情"]}],["$","div",null,{"className":"mt-4 grid gap-6 lg:grid-cols-[minmax(0,5fr)_minmax(0,7fr)]","children":[["$","div",null,{"children":[["$","div",null,{"className":"relative aspect-[4/5] border border-[#e3d8c8] bg-[#efe7da]","children":["$","$L12",null,{"src":"/diantou-xhs-material/materials/XHS-20261029-221754-417-8fe12766/images/01.png","alt":"用AI读论文两年半，我认为最好用的prompt","title":"用AI读论文两年半，我认为最好用的prompt","variant":"detail"}]}],["$","div",null,{"className":"mt-3 grid grid-cols-4 gap-2","children":[["$","div","materials/XHS-20261029-221754-417-8fe12766/images/01.png",{"className":"relative aspect-square border border-[#e3d8c8] bg-[#efe7da]","children":["$","$L12",null,{"src":"/diantou-xhs-material/materials/XHS-20261029-221754-417-8fe12766/images/01.png","alt":"","variant":"thumb"}]}],["$","div","materials/XHS-20261029-221754-417-8fe12766/images/02.png",{"className":"relative aspect-square border border-[#e3d8c8] bg-[#efe7da]","children":["$","$L12",null,{"src":"/diantou-xhs-material/materials/XHS-20261029-221754-417-8fe12766/images/02.png","alt":"","variant":"thumb"}]}]]}],null]}],["$","article",null,{"className":"border border-[#e3d8c8] bg-[#fffdf8] p-5","children":[["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"text-xs text-[#5e564e]","children":"图文"}],["$","span",null,{"className":"inline-flex items-center rounded-sm px-1.5 py-0.5 text-[11px] leading-4 bg-[#efe7da] text-[#5c534c]","children":"展示"}],["$","span",null,{"className":"text-xs text-[#8a7f74]","children":"本站记录"}],["$","$L13",null,{"id":"XHS-20261029-221754-417","title":"用AI读论文两年半，我认为最好用的prompt"}],["$","$L14",null,{"className":"inline-flex h-8 items-center rounded-md border border-[#e3d8c8] bg-[#fffdf8] px-3 text-xs text-[#1c1714]","children":"下载 ZIP"}]]}],["$","p",null,{"className":"mt-4 text-xs text-[#8a7f74]","children":"收藏只属于当前登录的名字，记在这台浏览器里，用来标记以后要洗的稿。"}],["$","h1",null,{"className":"mt-3 text-2xl font-semibold leading-snug tracking-tight","children":"用AI读论文两年半，我认为最好用的prompt"}],["$","dl",null,{"className":"mt-5 grid grid-cols-[6.5rem_minmax(0,1fr)] gap-y-3 text-sm","children":[["$","dt",null,{"className":"text-[#5e564e]","children":"收集人"}],["$","dd",null,{"children":"风絮"}],["$","dt",null,{"className":"text-[#5e564e]","children":"采集时间"}],["$","dd",null,{"className":"tabular-nums","children":"2026-10-29"}],["$","dt",null,{"className":"text-[#5e564e]","children":"作者"}],["$","dd",null,{"children":"幸运降临中"}],["$","dt",null,{"className":"text-[#5e564e]","children":"来源"}],["$","dd",null,{"children":"采集包"}],["$","dt",null,{"className":"text-[#5e564e]","children":"原文"}],["$","dd",null,{"children":["$","a",null,{"href":"https://www.xiaohongshu.com/explore/6a300c2e00000000060363b6?xsec_token=ABVjqpA-XZxrV6BLAQ4NDyOiTJseKycyNYhqy3tx-Oz9Q=&xsec_source=pc_search&m_source=pwa&source=web_explore_feed","target":"_blank","rel":"noreferrer","className":"break-all text-[#9f2d20] underline-offset-2 hover:underline","children":"https://www.xiaohongshu.com/explore/6a300c2e00000000060363b6?xsec_token=ABVjqpA-XZxrV6BLAQ4NDyOiTJseKycyNYhqy3tx-Oz9Q=&xsec_source=pc_search&m_source=pwa&source=web_explore_feed"}]}]]}],null,["$","p",null,{"className":"mt-4 flex gap-4 text-sm tabular-nums text-[#5e564e]","children":[["$","span",null,{"children":["赞 ",6504]}],["$","span",null,{"children":["藏 ",9898]}],["$","span",null,{"children":["评 ",101]}]]}],["$","p",null,{"className":"mt-4 whitespace-pre-wrap text-sm leading-7","children":"$15"}],"$L16"]}]]}]]}]
+16:["$","section",null,{"className":"mt-6 space-y-3 border-t border-[#e3d8c8] pt-5","children":[["$","div",null,{"children":[["$","h2",null,{"className":"text-sm font-semibold","children":"制作进度"}],["$","p",null,{"className":"mt-1 text-xs leading-5 text-[#5e564e]","children":"洗稿人可以有多位，用顿号分开，和收集人不是同一个角色。状态是展示、洗稿想法、洗稿完成、优秀稿件。静态展示只读，这里不能改。"}]]}],["$","dl",null,{"className":"grid grid-cols-[6.5rem_minmax(0,1fr)] gap-y-3 text-sm","children":[["$","dt",null,{"className":"text-[#5e564e]","children":"洗稿人"}],["$","dd",null,{"children":"未指派"}],["$","dt",null,{"className":"text-[#5e564e]","children":"状态"}],["$","dd",null,{"children":["$","span",null,{"className":"inline-flex items-center rounded-sm px-1.5 py-0.5 text-[11px] leading-4 bg-[#efe7da] text-[#5c534c]","children":"展示"}]}],["$","dt",null,{"className":"text-[#5e564e]","children":"备注"}],["$","dd",null,{"className":"whitespace-pre-wrap","children":"—"}]]}],["$","p",null,{"className":"text-xs text-[#8a7f74]","children":"还没有更新过"}]]}]
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+17:I[6644,[],"IconMark"]
+a:{"metadata":[["$","title","0",{"children":"点头素材台"}],["$","meta","1",{"name":"description","content":"点头教育内部素材库与制作进度"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/diantou-xhs-material/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L17","4",{}]],"error":null,"digest":"$undefined"}
+f:"$a:metadata"
